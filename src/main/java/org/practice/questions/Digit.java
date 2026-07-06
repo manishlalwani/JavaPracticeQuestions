@@ -17,8 +17,7 @@ public class Digit {
     }
 
     public static boolean assertEquals(int expected,int actual){
-        if(expected == actual) return true;
-        else return false;
+        return expected == actual;
     }
 
     public static void main(String[] args){
