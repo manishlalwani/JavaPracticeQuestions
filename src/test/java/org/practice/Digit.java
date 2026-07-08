@@ -1,4 +1,4 @@
-package org.practice.questions;
+package org.practice;
 
 public class Digit {
     public static int getCountOfDigits(long number){
