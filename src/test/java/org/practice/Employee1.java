@@ -2,7 +2,7 @@ package org.practice;
 
 import java.util.Arrays;
 
-public class Employee {
+public class Employee1 {
 
     public static void main(String[] args) {
         long[] salary = new long[] { 10000, 20000, 30000, 40000 };
