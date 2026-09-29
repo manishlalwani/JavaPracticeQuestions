@@ -1,8 +1,7 @@
 package org.practice.questions;
 
-import java.util.Comparator;
-import java.util.EnumMap;
 import java.util.Arrays;
+import java.util.Comparator;
 
 public class Employee {
     String name;
